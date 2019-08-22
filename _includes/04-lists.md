@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+*My boyfriend
+*Cats
+*Veggies burgers
+  *Dungeons and Dragons
+  *Whiskey
+  *Sleeping
+  *GitHub 
